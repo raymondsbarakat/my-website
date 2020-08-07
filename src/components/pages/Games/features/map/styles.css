@@ -1,0 +1,19 @@
+.tile{
+    display: inline-flex;
+    vertical-align: top;
+}
+
+.rock{
+    background-image: url('../tile/rock.png');
+}
+
+
+.grass{
+    background-color: rgb(9, 160, 9);
+}
+
+.water{
+    background-image: url('../tile/waterTile.png');
+    background-size: 150px;
+}
+
